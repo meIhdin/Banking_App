@@ -17,7 +17,7 @@ A backend system for a **Banking Application** built using **Java, Spring Boot, 
   ```plaintext
   Banking_APP/
   ├── src/
-  │   ├── main/java/net/hrithik/banking_app/
+  │   ├── main/java/net/nidhi/banking_app/
   │   │   ├── controller/      # Handles API requests
   │   │   ├── dto/             # Data Transfer Objects
   │   │   ├── entity/          # Database Entities
